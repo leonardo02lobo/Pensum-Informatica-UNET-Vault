@@ -1,0 +1,8 @@
+# Excluir material binario/pesado (PDFs, videos, zips, ejecutables)
+**/Material/
+
+# Archivos de estado local de Obsidian y sistema
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.DS_Store
+Thumbs.db
