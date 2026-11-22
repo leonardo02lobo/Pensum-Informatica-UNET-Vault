@@ -3,7 +3,7 @@ tags: [moc, drive, recursos, guia]
 ---
 # Recursos Drive UNET · Índice y Guía de Contribución
 
-Mapa central de consulta para el material universitario recopilado desde Google Drive (`loboleonardo75@gmail.com` y `leonardo.lobo@unet.edu.ve`) en la rama `investigacion-drive`, junto con la guía práctica para mantener y ampliar este vault de **[[Pensum Ingeniería Informática UNET]]**.
+Mapa central de consulta para el material universitario recopilado desde Google Drive (`loboleonardo75@gmail.com` y `leonardo.lobo@unet.edu.ve`) en la rama `investigacion-drive`, junto con la guía práctica para mantener y ampliar este vault de **[[Pensum Ingeniería Informática UNET]]**. Ver también [[Fuentes Oficiales UNET]] para códigos, UC, reglamentos y enlaces de RIUNET.
 
 ---
 

@@ -5,9 +5,9 @@ prelacion_uc: "80% de la carrera"
 ---
 # TAP Tesis
 
-**Semestre:** [[Semestre X]] · [[Pensum Ingeniería Informática UNET]]
+**Semestre:** [[Semestre X]] · [[Pensum Ingeniería Informática UNET]] · [[Fuentes Oficiales UNET]]
 
-**Prelación por unidades curriculares:** 80% de la carrera
+**Código oficial:** `0500001T` · **Unidades de crédito:** 12 UC · **Prelación por unidades curriculares:** ≥ 80% de la carrera + [[Servicio Comunitario]] culminado
 
 ## Prelaciones (cursar antes)
 - _Ninguna_
@@ -57,5 +57,7 @@ Todo el pensum, en especial [[Ingeniería de Software]], [[Base de Datos II]], [
 ### Bibliografía
 Hernández Sampieri, *Metodología de la Investigación*; UPEL, *Manual de Trabajos de Grado*; Eco, *Cómo se hace una tesis*; reglamento de trabajos de grado de la UNET (verificar versión vigente).
 
-### Notas hijas
+### Notas hijas y referencias oficiales
 - [[Estructura del informe de trabajo de grado]]
+- Colección TAP Ing. en Informática (RIUNET): `https://repositorio.unet.edu.ve:8443/jspui/handle/123456789/414`
+- Comisión TAP y programas (Dpto. Informática): `https://www.unet.edu.ve/informatica/` (formatos e instructivos en Uvirtual; empastado en percalina azul para Biblioteca Central)

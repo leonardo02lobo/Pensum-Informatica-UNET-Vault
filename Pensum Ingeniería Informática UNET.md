@@ -3,7 +3,7 @@ tags: [pensum, moc]
 ---
 # Pensum Ingeniería Informática UNET
 
-> **Índice de Drive y Guía de Contribución:** [[Recursos Drive UNET]]
+> **Índices y Guías:** [[Recursos Drive UNET]] · [[Fuentes Oficiales UNET]]
 
 ![[Pensum de Ingeniería Informática UNET.png]]
 

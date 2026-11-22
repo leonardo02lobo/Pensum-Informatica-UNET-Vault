@@ -5,9 +5,9 @@ prelacion_uc: "126 UC"
 ---
 # Seminario
 
-**Semestre:** [[Semestre IX]] · [[Pensum Ingeniería Informática UNET]]
+**Semestre:** [[Semestre IX]] · [[Pensum Ingeniería Informática UNET]] · [[Fuentes Oficiales UNET]]
 
-**Prelación por unidades curriculares:** 126 UC
+**Código oficial:** `424902` · **Unidades de crédito:** 3 UC (2T, 0P, 2L = 4 h/s) · **Prelación por unidades curriculares:** 126 UC aprobadas
 
 ## Prelaciones (cursar antes)
 - _Ninguna_

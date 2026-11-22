@@ -3,7 +3,9 @@ tags: [electiva]
 ---
 # Administración de Redes
 
-Opción de [[Electivas]].
+Opción de [[Electivas]] · [[Fuentes Oficiales UNET]].
+
+**Código oficial:** `0433817` / `8317` · **Unidades de crédito:** 3 UC (3 h/s) · **Núcleo:** Telemática / Redes
 
 ## Descripción
 Gestión operativa de redes de computadores: configuración de servicios, monitoreo, seguridad y resolución de fallas. Extiende [[Comunicaciones I]] y [[Comunicaciones II]].

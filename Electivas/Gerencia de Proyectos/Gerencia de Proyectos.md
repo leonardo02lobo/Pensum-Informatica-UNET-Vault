@@ -3,7 +3,9 @@ tags: [electiva]
 ---
 # Gerencia de Proyectos
 
-Opción de [[Electivas]].
+Opción de [[Electivas]] · [[Fuentes Oficiales UNET]].
+
+**Código oficial:** `0423810` / `8212` · **Unidades de crédito:** 3 UC (3 h/s) · **Área:** Gerencial y Desarrollo de Sistemas
 
 ## Descripción
 Métodos para planificar, ejecutar y controlar proyectos, con base en el PMBOK y metodologías ágiles; aplicable a proyectos de software e infraestructura.
