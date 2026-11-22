@@ -62,7 +62,7 @@ FROM ventas GROUP BY ROLLUP (continente, pais);
 Contar facturas por cliente y tienda (caso del Tema 5): `SELECT c.cliente_id, c.nombre, t.nombre_tienda, COUNT(f.factura_id) AS "Cantidad de Facturas" FROM cliente c JOIN factura f ON ... JOIN tienda t ON ... GROUP BY c.cliente_id, c.nombre, t.nombre_tienda ORDER BY c.cliente_id ASC, t.nombre_tienda DESC;`
 
 ### Relación con otras materias
-Requiere [[Programación II]] y [[Teoría General de Sistemas]]. Desbloquea [[Sistema de Información I]] (diseño de sistemas sobre bases de datos) y [[Multimedia]]; continúa en [[Base de Datos II]] y [[Administración de Base de Datos]]. Nota hija: [[SQL avanzado - ROLLUP CUBE y casos de estudio]].
+Requiere [[Programación II]] y [[Teoría General de Sistemas]]. Desbloquea [[Sistema de Información I]] (diseño de sistemas sobre bases de datos) y [[Multimedia]]; continúa en [[Base de Datos II]] y [[Administración de Base de Datos]]. Notas hijas: [[SQL avanzado - ROLLUP CUBE y casos de estudio]] · [[Base de Datos I - Caso Transversal DB-GRV y PL-SQL]].
 
 ### Evaluación y consejos
 - Entregas por equipo (diseño lógico/físico, scripts, casos de prueba) y exposiciones (hay plantilla de PowerPoint en el Material).

@@ -38,3 +38,4 @@ En `~/Documentos/UNET/administracion DB` hay un proyecto completo (Sistema de Co
 
 ## Material pesado (fuera del vault)
 - `~/Documentos/UNET/administracion DB`
+- Serie de prácticas Oracle 18c XE (Drive): [[Administración de Base de Datos - Prácticas Oracle 18c XE (DBCA, Arranque, Redo Logs y Seguridad)]]

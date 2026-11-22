@@ -68,3 +68,4 @@ Complementa [[Física II]] (correquisito) y se apoya en [[Física I]] y [[Labora
 ### Recursos del Material/
 
 Esta materia no tiene carpeta `Material/` en el vault.
+- Nota de clase (Drive): [[Laboratorio de Física II - Campo Eléctrico y Superficies Equipotenciales]].

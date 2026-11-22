@@ -5,6 +5,7 @@ Vault de conocimiento en **Obsidian** estructurado alrededor del pensum completo
 ## Estructura del Vault
 
 - **`Pensum Ingeniería Informática UNET.md`**: Mapa de contenido (MOC) principal con los 10 semestres y las electivas.
+- **`Recursos Drive UNET.md`**: Índice maestro de material recopilado desde Google Drive, stack de herramientas y guía/plantilla para agregar nuevo conocimiento.
 - **`Semestre I/` a `Semestre X/`**: Carpetas por semestre con cada asignatura.
 - **`Electivas/`**: 13 asignaturas electivas del pensum.
 - Dentro de cada asignatura:

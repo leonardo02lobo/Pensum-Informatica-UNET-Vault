@@ -18,6 +18,7 @@ semestre: V
 - [[Investigacion_ThingsBoard_IoT]]
 - [[Practica 1]]
 - [[Practica para tercer parcial]]
+- [[Proyecto HIDRA - Arquitectura n8n y Ciberseguridad]]
 
 ## Material pesado (fuera del vault)
 - `~/Documentos/UNET/Automatizacion Industrial`
