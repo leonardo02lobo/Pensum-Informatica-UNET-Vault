@@ -27,6 +27,7 @@ Pérdida en espacio libre (dB) = 20log10(d) + 20log10(f) + 32.44   # d en km, f 
 [[Comunicaciones I]], [[Comunicaciones II]], [[Física II]], [[Matemática IV]] (Fourier), [[Administración de Redes]].
 
 ## Recursos y bibliografía
+- Nota de clase (Drive): [[Introducción a las Telecomunicaciones - Medios, Radioenlaces, GPON y 5G]]
 - Tomasi, W. *Sistemas de Comunicaciones Electrónicas*.
 - Stallings, W. *Data and Computer Communications*.
 - Haykin, S. *Communication Systems*.

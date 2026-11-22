@@ -54,3 +54,4 @@ Aplica [[Ingeniería de Software]], [[Base de Datos I]], [[Desarrollo de Aplicac
 
 ### Recursos del Material/
 No hay carpeta `Material/` en esta materia.
+- Proyecto ejecutado (Drive): [[Sistema Comedor Universitario UNET (CSC-P 2026)]].

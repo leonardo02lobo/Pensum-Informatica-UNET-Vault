@@ -53,3 +53,4 @@ Requiere [[Base de Datos I]] y continúa en [[Sistema de Información II]] y [[B
 
 ### Recursos del Material/
 No hay carpeta `Material/` en esta materia.
+- Nota práctica (Drive): [[Sistema de Información I - Casos de Uso, PIECES y DFD (Comedor UNET)]].

@@ -5,9 +5,9 @@ prelacion_uc: "100% de la carrera"
 ---
 # TAP Pasantía
 
-**Semestre:** [[Semestre X]] · [[Pensum Ingeniería Informática UNET]]
+**Semestre:** [[Semestre X]] · [[Pensum Ingeniería Informática UNET]] · [[Fuentes Oficiales UNET]]
 
-**Prelación por unidades curriculares:** 100% de la carrera
+**Código oficial:** `0500002T` · **Unidades de crédito:** 12 UC · **Prelación por unidades curriculares:** 100% de la carrera + [[Servicio Comunitario]] culminado (duración típica: 16 semanas consecutivas)
 
 ## Prelaciones (cursar antes)
 - _Ninguna_

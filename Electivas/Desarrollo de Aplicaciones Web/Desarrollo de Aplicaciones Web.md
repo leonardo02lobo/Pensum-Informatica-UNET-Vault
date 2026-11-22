@@ -3,7 +3,9 @@ tags: [electiva]
 ---
 # Desarrollo de Aplicaciones Web
 
-Opción de [[Electivas]].
+Opción de [[Electivas]] · [[Fuentes Oficiales UNET]].
+
+**Código oficial:** `0423807` (*Desarrollo de Aplicaciones en Ambiente Web*) / `0423812` · **Unidades de crédito:** 3 UC (3 h/s) · **Núcleo:** Ingeniería de la Información
 
 ## Descripción
 Construcción de aplicaciones web de extremo a extremo: interfaz, lógica de servidor, persistencia, seguridad y despliegue.

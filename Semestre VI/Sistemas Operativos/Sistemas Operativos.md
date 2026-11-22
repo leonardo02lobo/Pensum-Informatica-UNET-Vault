@@ -70,3 +70,4 @@ Prelada por [[Organización del Computador]]; desbloquea [[Compiladores e Intér
 
 ### Recursos del Material/
 No hay carpeta `Material/` en esta materia.
+- Nota de prácticas (Drive): [[Sistemas Operativos - Prácticas Linux, Memory Monitor y Túneles IPC en C]].

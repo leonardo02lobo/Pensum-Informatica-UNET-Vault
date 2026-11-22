@@ -4,7 +4,9 @@ semestre: IX
 ---
 # Ingeniería de Software
 
-**Semestre:** [[Semestre IX]] · [[Pensum Ingeniería Informática UNET]]
+**Semestre:** [[Semestre IX]] · [[Pensum Ingeniería Informática UNET]] · [[Fuentes Oficiales UNET]]
+
+**Código oficial:** `425901` / `0426901` · **Unidades de crédito:** 3 UC · **Núcleo:** Ingeniería de la Información
 
 ## Prelaciones (cursar antes)
 - [[Sistemas Distribuidos]]
